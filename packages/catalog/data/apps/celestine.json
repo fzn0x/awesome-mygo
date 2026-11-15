@@ -1,0 +1,21 @@
+{
+	"$schema": "../schema/app.schema.json",
+	"slug": "celestine",
+	"name": "Celestine",
+	"author": "imhalid",
+	"kind": "native",
+	"platforms": [
+		"win",
+		"linux",
+		"mac"
+	],
+	"group": "notes",
+	"url": "https://celestine.halid.dev/",
+	"summary": {
+		"en": "A fast, native notes app for Mac, Windows and Linux. Pages format as you type, collections show as a list, table, board or calendar, a journal keeps a page for every day, and sync is end-to-end encrypted."
+	},
+	"description": {
+		"en": "A fast, native notes app for Mac, Windows and Linux. Pages format as you type, collections show as a list, table, board or calendar, a journal keeps a page for every day, and sync is end-to-end encrypted."
+	},
+	"added": "2026-11-15T18:10:52Z"
+}
