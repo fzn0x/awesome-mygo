@@ -1,0 +1,20 @@
+{
+	"$schema": "../schema/app.schema.json",
+	"slug": "sshclipboard",
+	"name": "SSHClipboard",
+	"author": "josexy",
+	"kind": "native",
+	"platforms": [
+		"win"
+	],
+	"group": "dev",
+	"url": "https://github.com/josexy/sshclipboard",
+	"repo": "josexy/sshclipboard",
+	"summary": {
+		"en": "Windows tray app that uploads screenshots and copied files to a Linux server over SFTP and copies the remote path back to your clipboard, ready to paste into your SSH session"
+	},
+	"description": {
+		"en": "Windows tray app that uploads screenshots and copied files to a Linux server over SFTP and copies the remote path back to your clipboard, ready to paste into your SSH session"
+	},
+	"added": "2026-11-16T03:18:31Z"
+}
